@@ -5,3 +5,5 @@
 - 百分比布局
 - 图片自适应
 - flex，grid，BFC，绝对布局等常用技巧
+
+(查看demo)[https://liuyuanquan.github.io/responsive-layout/index.html]
